@@ -1,5 +1,5 @@
 # Audio Data Visualization Experiment
-Done using Processing including the OpenGL and Krister ESS audio libraries (included).
+Done using Processing including the OpenGL and Krister ESS audio libraries (included). Screen capture of this project can be seen here - http://vimeo.com/71616190
 
 ## Description
 Data visualization of audio from Pink Floyd's Dark Side of the Moon as the data source and the album art for the visual reference. Frequencies are mapped to colors (higher frequencies = brighter colors) line lengths are drawn based on amplitude of those frequencies. Rendered in 3d space, the camera pans the x and y axes based on the mouse x and y positions.
