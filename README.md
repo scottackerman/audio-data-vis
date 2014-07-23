@@ -10,3 +10,6 @@ Drop the contents of the 'drop-contents-in-libs-folder' into your processing lib
 ## Controls
 Mouse position controls x and y axes, arrow buttons control same. 
 After clicking on stage, 1 zooms image out, 2 zooms image in, 3 draws thin frequency lines, 4 draws medium frequency lines, 5 draws thick medium lines, 6 draws very thick lines, and 7 draws ridiculously thick lines.
+
+## BIG FILE ALERT:
+Audio file is .aif and rather large (34MB).
