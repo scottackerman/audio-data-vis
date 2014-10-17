@@ -13,3 +13,6 @@ After clicking on stage, 1 key = half size image, 2 key = full size image, 3 key
 
 ## BIG FILE ALERT:
 Audio file is .aif and rather large (34MB).
+
+## TODO
+Change audio file to streaming MP3
